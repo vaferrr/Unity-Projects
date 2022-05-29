@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df09d17c82cb18142adf7d702aa3fc15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mixer: {instanceID: 0}
+  - fire: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - menu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
